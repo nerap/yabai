@@ -2,7 +2,9 @@ yabai -m config layout bsp
 
 yabai -m config window_placement second_child
 
-yabai -m config top_padding 50
+borders active_color= 0xc0C099FF inactive_color=0xff494d64 width=5.0 &
+
+yabai -m config top_padding 10
 yabai -m config bottom_padding 10
 yabai -m config left_padding 10
 yabai -m config right_padding 10
